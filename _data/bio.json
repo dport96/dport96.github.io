@@ -53,35 +53,35 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": ",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "",
+        "",
+        "",
+        "",
+        "T"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Accounting (expected Spring, 20121)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-08-26",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -90,69 +90,68 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Wahiawa Center for Community Health",
+      "position": "Accounting Clerk",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-09-11",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Finance Team",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Bookkeeping, reports, and reconciling.",
+        "Transactions, payables, receivables."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Wahiawa Center for Community Health",
+      "position": "Accounting Intern",
+      "website": "",
+      "startDate": "2019-05-08",
+      "endDate": "2019-09-04",
+      "summary": "Accounting field experience.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "",
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Alvin G. Vales, MD",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "position": "Receptionist",
+      "startDate": "2015",
+      "endDate": "2018",
+      "summary": "Patient services",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Communicating with patients.",
+        "Clercial and minimal clinical activities."
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "2017-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to full time students with an outstanding GPA of 3.5 or higher."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "2017 Shidler Direct Admit Program Cohort",
+      "date": "2017-2018",
+      "awarder": "Shidler College of Business,
+      "summary": "Directly admitted into the Shidler College of Business as a freshmen.."
     }
   ],
   "references": [
