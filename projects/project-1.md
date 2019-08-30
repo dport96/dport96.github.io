@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Elementary Business Analytics Case Book
 permalink: projects/ElementaryBusiness-Analytics-Case-Book
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01
