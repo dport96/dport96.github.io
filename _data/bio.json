@@ -36,8 +36,8 @@
     {
       "name": "accounting",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "name": "gardening",
+      "name": "plants",
       "keywords": [
       ]
     }
