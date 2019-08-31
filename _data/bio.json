@@ -47,7 +47,7 @@
       "name": "food photography",
       "keywords": [
       ]
-    },
+    }
   ],
   "skills": [
     {
@@ -64,7 +64,7 @@
       "name": "Canva",
       "keywords": [
       ]
-    },
+    }
   ],
   "education": [
     {
@@ -99,7 +99,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Makes smoothies, ring up customers, and do inventory",
+        "Makes smoothies, ring up customers, and do inventory"
       ]
     }
   ],
@@ -113,6 +113,6 @@
       "summary": "Assist residents with activities such as bingo night, Halloween, and Christmas programs.",
       "highlights": [
       ]
-    },
-  ],
+    }
+  ]
 }
