@@ -26,4 +26,4 @@ markdown: kramdown
 include: [_data]
 
 
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
