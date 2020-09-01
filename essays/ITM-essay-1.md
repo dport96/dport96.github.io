@@ -1,20 +1,12 @@
 ---
-
 layout: essay
-
 type: essay
-
 title: Why ITM 352?
-
-
 date: 2020-08-29
-
 labels:
-
-- Education
--IT
--Programming
-
+  - Education
+  - IT
+  - Programming
 ---
 
 Although with the pandemic and a new addition to the family this year I decided to take on another major of MIS.
