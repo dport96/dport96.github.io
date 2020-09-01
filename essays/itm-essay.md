@@ -4,8 +4,8 @@ type: essay
 title: Why I took itm 352
 date: 2020-08-29
 labels:
--Education
--Programming
+  - Education
+  - Programming
 ---
 
 Although with the pandemic and a new addition to the family this year I decided to take on another major of MIS.
