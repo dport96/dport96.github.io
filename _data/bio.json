@@ -1,118 +1,130 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Daniel Port",
+    "label": "Professor",
+    "picture": "data:image/gif;base64,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",
+    "email": "dport@hawaii.edu",
+    "phone": "+1-808-956-7494",
+    "website": "https://dport96.github.io/",
+    "summary": "I am a professor of <a href='http://shidler.hawaii.edu/itm/about'>Information Technology Management</a> in the Shidler College of Business at the University of Hawaii at Manoa.",
+    "location": {
+      "address": "Shidler College of Business, 2404 Maile Way",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "dport96",
+        "url": "http://dport96.github.io"
+      },
+      {
+        "network": "email",
+        "url": "dport@hawaii.edu"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    {
+      "name": "Software Engineering Economics and Management",
+      "keywords": [
+        "Software",
+        "Engineering Management",
+        "Software Economics"
+      ]
+    },
+    {
+      "name": "Data Analytics",
+      "keywords": [
+        "Statistics",
+        "Data Analytics",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Sailing",
+      "keywords": [
+        "Sailboat",
+        "Boat"
+      ]
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "level": "advanced",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "PHP",
+        "Python",
+        "R",
+        "Matlab",
+        "VBA",
+        "Applesoft",
+        "ObjC",
+        "Fortran",
+        "APL",
+        "Pascal",
+        "Ruby"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "level": "",
+      "keywords": [
+        "Git/GitHub",
+        "Widoze",
+        "OSX",
+        "Linux"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "institution": "Massachusetts Institute of Technology",
+      "area": "Mathematics and Theoretical Computer Science",
+      "studyType": "PhD",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Shidler College of Business",
+      "position": "Associate Professor of Infortmation Technology Management",
+      "website": "http://shidler.hawaii.edu/itm/about",
+      "startDate": "2003-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "teaching and develolping ITM courses",
+        "technolgy management research"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Delta Sigma Pi business fraternity",
+      "website": " http://www.dspuhm.com/",
+      "position": "Faculty Advisor",
+      "startDate": "2014",
+      "endDate": "present",
       "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "highlights": []
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  "awards": [],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }
