@@ -20,7 +20,16 @@ I will do my best to help you get your thinking clean and make it simple! **Ple
 {% assign currentYear = "now" | date: "%Y" %}
 {% assign numberOfYears = currentYear | minus: startYear %}
 
-Since I've asked you to introduce yourself it's only fair I introduce myself too. As you probably already know I'm a professor in the ITM department here at Shidler where I teach the core MIS courses, stats, and various MBA courses. I've been here for over {{ numberOfYears }} years already!  ![cool](../images/check.gif "cool")
+<script>
+// Get the current year
+const currentYear = new Date().getFullYear();
+// Set the starting year
+const startYear = 2003;
+// Calculate the number of years
+const numberOfYears = currentYear - startYear;
+ </script>
+
+Since I've asked you to introduce yourself it's only fair I introduce myself too. As you probably already know I'm a professor in the ITM department here at Shidler where I teach the core MIS courses, stats, and various MBA courses. I've been here for over <script>document.write(numberOfYears)</script> years already!  ![cool](../images/check.gif "cool")
 
 Originally I'm from Santa Monica, CA which is not that much different than Honolulu, just more expensive and more crowded. I'm interested in MIS because I've always been fascinated and really good with computing and business even though I was a only a math major in college. As an MIS professor my main research area is _software assurance_ which I work in collaboration with NASA's Jet Propulsion Laboratory and the Japan Aerospace Exploration Agency (JAXA). This sounds a lot cooler than it really is ![blush](../images/blush.jpg "blush") because I do not directly work on space systems or get to meet astronauts. My research area is a bit dull to most people, but I really like it anyway because it's a lot of fun working with space systems engineers and the business side of space systems software development. I feel that I'm contributing in my own small way.
 
