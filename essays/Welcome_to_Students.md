@@ -8,29 +8,19 @@ labels:
   - Learning
   - Introducing Myself
 ---
-<style>
-.fill {object-fit: fill;}
-.contain {object-fit: contain;}
-.cover {object-fit: cover;}
-.scale-down {object-fit: scale-down;}
-.none {object-fit: none;}
-</style>
-<p>Hello students! It&#39;s terrific having you in my class this semester and truly a privilege to help you along your acedemic journey. I hope you enjoy this class, but, it can be very challenging... &nbsp;Here is some advice from Steve Jobs:</p>
+.fill {object-fit: fill;} .contain {object-fit: contain;} .cover {object-fit: cover;} .scale-down {object-fit: scale-down;} .none {object-fit: none;}
 
-<div>
+Hello students! It's terrific having you in my class this semester and truly a privilege to help you along your acedemic journey. I hope you enjoy this class, but, it can be very challenging...  Here is some advice from Steve Jobs:
 
-<div style="clear:left">
-<p><cite>&ldquo;Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it&rsquo;s worth it in the end because once you get there, you can move mountains.&rdquo;&nbsp;</cite></p>
+“Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” 
 
-<p>I will do my best to help you get your thinking clean and make it simple!&nbsp;<strong>Please don&#39;t be shy about asking for help anytime. I&#39;m here for you!</strong></p>
+I will do my best to help you get your thinking clean and make it simple! **Please don't be shy about asking for help anytime. I'm here for you!**
 
-<p>Since I&#39;ve asked you to introduce yourself it&#39;s only fair I introduce myself too. As you probably already know I&#39;m a professor in the&nbsp;ITM department here at Shidler where I teach the core MIS courses, stats, and various MBA courses. I&#39;ve been here for over 15 years&nbsp;already!&nbsp;&nbsp;<img class="contain" alt="cool" src="../images/check.gif" title="cool" height="25px" width="25px" /></p>
+Since I've asked you to introduce yourself it's only fair I introduce myself too. As you probably already know I'm a professor in the ITM department here at Shidler where I teach the core MIS courses, stats, and various MBA courses. I've been here for over 15 years already!  ![cool](../images/check.gif "cool")
 
-<p>Originally I&#39;m from Santa Monica, CA which is not that much different than Honolulu, just more expensive and more crowded. I&#39;m interested in MIS because I&#39;ve always been fascinated and really good with computing and business even though&nbsp;I was a only a math major in college. As an MIS professor my main research area is&nbsp;<em>software assurance</em>&nbsp;which I&nbsp;work&nbsp;in collaboration with NASA&#39;s Jet Propulsion Laboratory&nbsp;and the Japan Aerospace Exploration Agency (JAXA). This sounds a lot cooler than it really is&nbsp;<img class="contain" alt="blush" src="../images/blush.jpg" title="blush" height="35px" width="35px" />&nbsp;because I <u>do not directly work on space systems</u> or get to meet&nbsp;astronauts. My&nbsp;research&nbsp;area is a bit dull to most people, but I really like it anyway because&nbsp;it&#39;s a lot of fun working with space systems engineers and the business side of space systems software development. I feel that I&#39;m contributing in my own small way.</p>
+Originally I'm from Santa Monica, CA which is not that much different than Honolulu, just more expensive and more crowded. I'm interested in MIS because I've always been fascinated and really good with computing and business even though I was a only a math major in college. As an MIS professor my main research area is _software assurance_ which I work in collaboration with NASA's Jet Propulsion Laboratory and the Japan Aerospace Exploration Agency (JAXA). This sounds a lot cooler than it really is ![blush](../images/blush.jpg "blush") because I do not directly work on space systems or get to meet astronauts. My research area is a bit dull to most people, but I really like it anyway because it's a lot of fun working with space systems engineers and the business side of space systems software development. I feel that I'm contributing in my own small way.
 
-<p>When I&#39;m not teaching&nbsp;or researching, I&#39;m either working on my internet start-up company with my friend in LA, practicing Tae Kwon Do, or sailing. I have some strange hobbies like fixing old computer&nbsp;equipment, restoring vintage mid-century modern&nbsp;furniture&nbsp;or caring for the IT needs at the Morning Brew Cafe in Kailua. Vintage modern? Sounds funny, right? In the picture below I&#39;m feeding&nbsp;a pigeon a french fry on the Big Island. This was about 12&nbsp;years ago so you will notice my hair is considerably more grey now. Probably from&nbsp;teaching 352 for so long!</p>
-</div>
-</div>
+When I'm not teaching or researching, I'm either working on my internet start-up company with my friend in LA, practicing Tae Kwon Do, or sailing. I have some strange hobbies like fixing old computer equipment, restoring vintage mid-century modern furniture or caring for the IT needs at the Morning Brew Cafe in Kailua. Vintage modern? Sounds funny, right? In the picture below I'm feeding a pigeon a french fry on the Big Island. This was about 12 years ago so you will notice my hair is considerably more grey now. Probably from teaching 352 for so long!
 
 
 <div>
