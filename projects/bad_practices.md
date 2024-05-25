@@ -10,6 +10,7 @@ labels:
   - Advice
 summary: A compendium of bad practice smells in software engineering education
 ---
+# new thing here
 
 # Bad Practices for Novices to Avoid
 
