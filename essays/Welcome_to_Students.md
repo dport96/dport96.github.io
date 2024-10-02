@@ -32,6 +32,8 @@ Originally I'm from Santa Monica, CA which is not that much different than Honol
 When I'm not teaching or researching, I'm either working on my internet start-up company with my friend in LA, practicing Tae Kwon Do, or sailing. I have some strange hobbies like fixing old computer equipment, restoring vintage mid-century modern furniture or caring for the IT needs at the Morning Brew Cafe in Kailua. Vintage modern? Sounds funny, right? In the picture below I'm feeding a pigeon a french fry on the Big Island. This was about 12 years ago so you will notice my hair is considerably more grey now. Probably from teaching 352 for so long!
 
 
+
+
 <div>
 <div class="clog_body">
 <div class="content" style="clear:center; margin-top:30px">
