@@ -8,7 +8,7 @@ labels:
   - Learning
   - Introducing Myself
 ---
-.fill {object-fit: fill;} .contain {object-fit: contain;} .cover {object-fit: cover;} .scale-down {object-fit: scale-down;} .none {object-fit: none;}
+
 
 Hello students! It's terrific having you in my class this semester and truly a privilege to help you along your acedemic journey. I hope you enjoy this class, but, it can be very challenging...  Here is some advice from Steve Jobs:
 
@@ -29,7 +29,7 @@ Since I've asked you to introduce yourself it's only fair I introduce myself too
 
 Originally I'm from Santa Monica, CA which is not that much different than Honolulu, just more expensive and more crowded. I'm interested in MIS because I've always been fascinated and really good with computing and business even though I was a only a math major in college. As an MIS professor my main research area is _software assurance_ which I work in collaboration with NASA's Jet Propulsion Laboratory and the Japan Aerospace Exploration Agency (JAXA). This sounds a lot cooler than it really is because I do not directly work on space systems or get to meet astronauts 😊. My research area is a bit dull to most people, but I really like it anyway because it's a lot of fun working with space systems engineers and the business side of space systems software development. I feel that I'm contributing in my own small way.
 
-When I'm not teaching or researching, I'm either working on my internet start-up company with my friend in LA, practicing Tae Kwon Do, or sailing. I have some strange hobbies like fixing old computer equipment, restoring vintage mid-century modern furniture or caring for the IT needs at the Morning Brew Cafe in Kailua. Vintage modern? Sounds funny, right? In the picture below I'm feeding a pigeon a french fry on the Big Island. This was about 12 years ago so you will notice my hair is considerably more grey now. Probably from teaching 352 for so long!
+When I'm not teaching or researching, I'm either working on some start-up company, practicing Tae Kwon Do, or sailing. I have some strange hobbies like fixing old computer equipment, restoring vintage mid-century modern furniture or caring for the IT needs at the Morning Brew Cafe. "Vintage modern" Sounds funny, right? In the picture below I'm feeding a pigeon a french fry on the Big Island. This was about <script>document.write(numberOfYears - 5)</script> years ago so you will notice my hair is considerably more grey now. Probably from teaching software develoment for so long!
 
 
 
